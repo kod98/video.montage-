@@ -1,0 +1,6 @@
+<nav class="navbar"> {
+          wjdth: 100%;
+          hejght: 1000px;
+          box-shadow: 0 4px  10px; 
+        }
+      </nav> 
